@@ -42,4 +42,4 @@ then type
 npm start
 ```
 
-More details can be found in [Docs](https://www.google.com)
+More details can be found in [Docs](https://github.com/AhmedElshobaky/CatchTheFruit/tree/master/docs)
